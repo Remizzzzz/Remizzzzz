@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Remizzzzz
 - 👀 I’m interested in everything >_>
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on l'INTEGGGG
-- 📫 How to reach me : with a car, or by walking
-- 😄 Pronouns: il
+- 📫 How to reach me : with a car, or by walking (remi.zongo@etu.utc.fr/rzongo350@gmail.com)
+- 😄 Pronouns: il/he
 - ⚡ Fun fact: Roux métis, représentant de 0,01% de la pop mondiale
 
 <!---
